@@ -1,0 +1,15 @@
+D:\kelvin files\source\repos\quizb\quizb\bin\Debug\quizb.exe.config
+D:\kelvin files\source\repos\quizb\quizb\bin\Debug\quizb.exe
+D:\kelvin files\source\repos\quizb\quizb\bin\Debug\quizb.pdb
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.csproj.AssemblyReference.cache
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form1.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form2.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form3.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form4.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form5.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Properties.Resources.resources
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.csproj.GenerateResource.cache
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.csproj.CoreCompileInputs.cache
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.exe
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.pdb
+D:\kelvin files\source\repos\quizb\quizb\obj\Debug\quizb.Form6.resources
